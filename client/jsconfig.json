@@ -5,7 +5,3 @@
     "include": ["src"]
 }
 
-/* 
-when we import different files into other files,
-we can just start from source(src)
-*/
